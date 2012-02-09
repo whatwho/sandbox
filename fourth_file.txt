@@ -1,1 +1,5 @@
 fourth commit
+stash 2
+
+
+EZ A LEGJOBB FEJLESZTÉS
